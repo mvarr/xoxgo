@@ -55,7 +55,7 @@ func gamestatus(board [][]string) {
 	}
 	if board[0][0] == "O" && board[0][1] == "O" && board[0][2] == "O" || board[1][0] == "O" && board[1][1] == "O" && board[1][2] == "O" || board[2][0] == "O" && board[2][1] == "O" && board[2][2] == "O" || board[0][0] == "O" && board[1][1] == "O" && board[2][2] == "O" || board[0][2] == "O" && board[1][1] == "O" && board[2][0] == "O" || board[0][0] == "O" && board[1][0] == "O" && board[2][0] == "O" || board[0][2] == "O" && board[1][2] == "O" && board[2][2] == "O" || board[0][1] == "O" && board[1][1] == "O" && board[2][1] == "O" {
 		fmt.Println("Computer Won!")
-		os.Exit(0) //i tried to implement "do you want to restart?" function, but ended up with frustration.
+		os.Exit(0) //i tried to implement "do you want to restart?" function, but ended up with frustration. (i wasnt sufficient enough to write that. trust me, i tried so hard.)
 	}
 }
 
