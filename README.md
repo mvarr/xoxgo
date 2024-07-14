@@ -12,7 +12,7 @@ This is a classic 3x3 Tic-Tac-Toe (or XoX game, call with what do you want) game
 - **Simple and Fast**: i made it in 2 hours. dont expect too much. (in fact, i spent more time writing this documentation than i did writing code.)
 - **Humorous and real.**: You willll feel my pain when you read the goddamm comments.
 - **Basic Input Handling**: The game actually understands what you're typing. just don't go it with too harsh, please?
-- **No Restart Option**: Because who have second chances in life? (i wasnt sufficient enough to write that. trust me, i tried so hard.)
+- **No Restart Option**: Because who have second chances in life?
 
 ## How to Run (as if you didn't know at all)
 
