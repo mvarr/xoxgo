@@ -18,10 +18,12 @@ This is a classic 3x3 Tic-Tac-Toe (or XoX game, call with what do you want) game
 
 1. make sure you have Go installed. If not, [get it here](https://go.dev/dl/).
 2. clone this repository (like every other project).
+
 	`sh git clone https://github.com/yourusername/xoxgo.git` 
 	`cd xoxgo`
-3. type `go run xoxgo.go` in your terminal.
-4. Follow the instructions on the screen. make your move by entering the row and column numbers (1-3). dont mess it up.
+
+4. type `go run xoxgo.go` in your terminal.
+5. Follow the instructions on the screen. make your move by entering the row and column numbers (1-3). dont mess it up.
 
 ## How to Play
 
