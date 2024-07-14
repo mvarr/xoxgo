@@ -1,3 +1,3 @@
-module github.com/mvarr/xoxgo
+module github.com/mvarr/xoxgo.git
 
-go 1.22
+go 1.22.5
